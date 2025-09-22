@@ -1,8 +1,5 @@
 # BuyBlox-Clothing
 Full-stack E-Commerce website for clothing built with Angular, Django, and SQL.
-# BuyBlox Clothing 
-
-A full-stack **E-Commerce Website** for a clothing brand built with **Angular, Django, and SQL**.
 
 Features
 - Seamless product browsing
